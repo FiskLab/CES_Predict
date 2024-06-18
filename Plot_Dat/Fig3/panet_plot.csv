@@ -1,0 +1,10 @@
+Task,Category,BetterTN,DiffAcc,RankInDiffAcc
+Perineural Invasion,A,Y,0.105,4
+Extra-pancreatic Spread,A,Y,0.2109,1
+Grade,A,N,0.04,7
+Size (S/L),A,Y,0.0887,5
+ENETS T Stage,A,N,0.021,8
+Sex,C,N,0.009,9
+Age,B,Y,0.0646,6
+Drinker Status,A,Y,0.1651,3
+Smoking Status,A,Y,0.17902,2

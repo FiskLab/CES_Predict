@@ -1,0 +1,9 @@
+Data,Weight,Accuracy,CI_Low,CI_High,Kind
+PanCancer BRCA,One-hot,0.6257,0.571,0.6734,Raw
+MSK Targetted BRCA,One-hot,0.6469,0.6133,0.6802,Raw
+PanCancer BRCA,Impact,0.7101,0.687,0.7292,Anno
+MSK Targetted BRCA,Impact,0.7298,0.7207,0.7389,Anno
+PanCancer BRCA,CES,0.7665,0.73191,0.79082,Anno
+MSK Targetted BRCA,CES,0.7744,0.77,0.7788,Anno
+MSK Targetted BRCA,Transfer-Impact,0.739119,0.7221219,0.75643,Transfer
+MSK Targetted BRCA,Transfer-CES,0.798901,0.7809564,0.817818,Transfer

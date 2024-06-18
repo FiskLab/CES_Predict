@@ -1,0 +1,43 @@
+Input,Task,Accuracy,CI_Low,CI_High
+PolyPhen,PAM50,0.36,0.32,0.4
+PolyPhen,Stage (All),0.40067,0.3065,0.4878
+PolyPhen,Stage (E/L),0.5555556,0.52522,0.57522
+PolyPhen,ER Status,0.7803,0.7464,0.809
+PolyPhen,HER2 Status,0.681212,0.6367,0.7507
+PolyPhen,Triple Negative Status,0.727,0.687,0.7491
+PolyPhen,Full Subtype,0.5555556,0.541118,0.567
+SIFT,PAM50,0.3,0.2,0.42
+SIFT,Stage (All),0.40067,0.3065,0.4878
+SIFT,Stage (E/L),0.5555556,0.52522,0.57522
+SIFT,ER Status,0.7781,0.7564,0.7982
+SIFT,HER2 Status,0.681212,0.6367,0.7507
+SIFT,Triple Negative Status,0.727,0.687,0.7491
+SIFT,Full Subtype,0.53332,0.528,0.551
+CES,PAM50,0.37,0.33,0.41
+CES,Stage (All),0.416667,0.3665,0.51079
+CES,Stage (E/L),0.5555556,0.52522,0.57522
+CES,ER Status,0.81808108,0.78,0.83
+CES,HER2 Status,0.69444,0.6267,0.759
+CES,Triple Negative Status,0.7297297,0.681,0.76211
+CES,Full Subtype,0.5555556,0.541118,0.567
+Combo,PAM50,0.37,0.33,0.41
+Combo,Stage (All),0.420013,0.3765,0.52079
+Combo,Stage (E/L),0.5555556,0.52522,0.57522
+Combo,ER Status,0.81808108,0.774,0.8356
+Combo,HER2 Status,0.73234,0.70169,0.789
+Combo,Triple Negative Status,0.748997,0.686,0.79907
+Combo,Full Subtype,0.5555556,0.541118,0.567
+Random,PAM50,0.2,0.2,0.2
+Random,Stage (All),0.333,0.333,0.333
+Random,Stage (E/L),0.5,0.5,0.5
+Random,ER Status,0.5,0.5,0.5
+Random,HER2 Status,0.5,0.5,0.5
+Random,Triple Negative Status,0.5,0.5,0.5
+Random,Full Subtype,0.25,0.25,0.25
+Naive,PAM50,0.3915,0.3915,0.3915
+Naive,Stage (All),0.5405405,0.5405405,0.5405405
+Naive,Stage (E/L),0.6864865,0.6864865,0.6864865
+Naive,ER Status,0.78373,0.78373,0.78373
+Naive,HER2 Status,0.754,0.754,0.754
+Naive,Triple Negative Status,0.7837838,0.7837838,0.7837838
+Naive,Full Subtype,0.5459459,0.5459459,0.5459459

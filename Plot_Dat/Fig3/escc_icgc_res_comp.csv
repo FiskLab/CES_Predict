@@ -1,0 +1,8 @@
+Task,Category,BetterTN,DiffAcc,RankInDiffAcc
+Grade,A,Y,0.0698,5
+Stage,C,N,0.01063,7
+Sex,A,N,0.0209,6
+Age,A,Y,0.1197,4
+Overall Survival,A,Y,0.1454,3
+Smoking Status,A,Y,0.267,1
+Drinker Status,A,Y,0.1981,2

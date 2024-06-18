@@ -1,0 +1,77 @@
+Data,Task,Disease,Category,Disease2
+PanCancer (TCGA),Survival,LAML (PanCancer),A,AML
+PanCancer (TCGA),Survival,BLCA (PanCancer),A,Bladder Urothelial Carcinoma
+PanCancer (TCGA),Sex,BLCA (PanCancer),B,Bladder Urothelial Carcinoma
+PanCancer (TCGA),Stage,BLCA (PanCancer),A,Bladder Urothelial Carcinoma
+PanCancer (TCGA),Age,BLCA (PanCancer),C,Bladder Urothelial Carcinoma
+PanCancer (TCGA),Survival,LGG (PanCancer),A,Brain Lower Grade Glioma
+PanCancer (TCGA),Sex,LGG (PanCancer),A,Brain Lower Grade Glioma
+PanCancer (TCGA),Subtype,LGG (PanCancer),A,Brain Lower Grade Glioma
+PanCancer (TCGA),Tumor Type,LGG (PanCancer),A,Brain Lower Grade Glioma
+PanCancer (TCGA),Age,LGG (PanCancer),A,Brain Lower Grade Glioma
+PanCancer (TCGA),Survival,BRCA (PanCancer),A,Breast Invasive Carcinoma
+PanCancer (TCGA),Age,BRCA (PanCancer),A,Breast Invasive Carcinoma
+PanCancer (TCGA),Subtype,BRCA (PanCancer),A,Breast Invasive Carcinoma
+PanCancer (TCGA),Race Category,BRCA (PanCancer),A,Breast Invasive Carcinoma
+PanCancer (TCGA),Stage,BRCA (PanCancer),A,Breast Invasive Carcinoma
+PanCancer (TCGA),Survival,CESC (PanCancer),A,Cervical Squamous Cell Carcinoma
+PanCancer (TCGA),Age,CESC (PanCancer),C,Cervical Squamous Cell Carcinoma
+PanCancer (TCGA),Stage,CESC (PanCancer),A,Cervical Squamous Cell Carcinoma
+PanCancer (TCGA),Survival,COAD (PanCancer),A,Colorectal Adenocarcinoma
+PanCancer (TCGA),Age,COAD (PanCancer),C,Colorectal Adenocarcinoma
+PanCancer (TCGA),MSI Mantis Score,COAD (PanCancer),A,Colorectal Adenocarcinoma
+PanCancer (TCGA),Sex,COAD (PanCancer),B,Colorectal Adenocarcinoma
+PanCancer (TCGA),Stage,COAD (PanCancer),A,Colorectal Adenocarcinoma
+PanCancer (TCGA),Survival,ESCA (PanCancer),A,Esophageal Adenocarcinoma
+PanCancer (TCGA),Age,ESCA (PanCancer),A,Esophageal Adenocarcinoma
+PanCancer (TCGA),Race Category,ESCA (PanCancer),A,Esophageal Adenocarcinoma
+PanCancer (TCGA),Stage,ESCA (PanCancer),A,Esophageal Adenocarcinoma
+PanCancer (TCGA),Survival ,GBM (PanCancer),A,Glioblastoma Multiforme
+PanCancer (TCGA),Age,GBM (PanCancer),C,Glioblastoma Multiforme
+PanCancer (TCGA),Temozolomide Status,GBM (PanCancer),A,Glioblastoma Multiforme
+PanCancer (TCGA),Age,HNSC (PanCancer),C,Head and Neck Squamous Cell Carcinoma
+PanCancer (TCGA),HPV Status,HNSC (PanCancer),A,Head and Neck Squamous Cell Carcinoma
+PanCancer (TCGA),Stage,HNSC (PanCancer),A,Head and Neck Squamous Cell Carcinoma
+PanCancer (TCGA),Sex,HNSC (PanCancer),A,Head and Neck Squamous Cell Carcinoma
+PanCancer (TCGA),Survival,KIRC (PanCancer),A,Kidney Renal Clear Cell Carcinoma
+PanCancer (TCGA),Age,KIRC (PanCancer),A,Kidney Renal Clear Cell Carcinoma
+PanCancer (TCGA),Sex,KIRC (PanCancer),A,Kidney Renal Clear Cell Carcinoma
+PanCancer (TCGA),Stage,KIRC (PanCancer),A,Kidney Renal Clear Cell Carcinoma
+PanCancer (TCGA),Size,KIRC (PanCancer),A,Kidney Renal Clear Cell Carcinoma
+PanCancer (TCGA),Stage,KIRP (PanCancer),A,Kidney Renal Papillary Cell Carcinoma
+PanCancer (TCGA),Age,KIRP (PanCancer),A,Kidney Renal Papillary Cell Carcinoma
+PanCancer (TCGA),Survival,KIRP (PanCancer),A,Kidney Renal Papillary Cell Carcinoma
+PanCancer (TCGA),Survival,LIHC (PanCancer),A,Liver Hepatocellular Carcinoma
+PanCancer (TCGA),Stage,LIHC (PanCancer),A,Liver Hepatocellular Carcinoma
+PanCancer (TCGA),Age,LIHC (PanCancer),A,Liver Hepatocellular Carcinoma
+PanCancer (TCGA),Survival,LUAD (PanCancer),A,Lung Adenocarcinoma
+PanCancer (TCGA),Stage,LUAD (PanCancer),A,Lung Adenocarcinoma
+PanCancer (TCGA),Age,LUAD (PanCancer),C,Lung Adenocarcinoma
+PanCancer (TCGA),Survival,OV (PanCancer),C,Ovarian Serous Cystadenocarcinoma
+PanCancer (TCGA),Age,OV (PanCancer),C,Ovarian Serous Cystadenocarcinoma
+PanCancer (TCGA),Age,PAAD (PanCancer),C,Pancreatic Adenocarcinoma
+PanCancer (TCGA),Survival,PAAD (PanCancer),A,Pancreatic Adenocarcinoma
+PanCancer (TCGA),Stage,PRAD (PanCancer),A,Prostate Adenocarcinoma
+PanCancer (TCGA),Age,PRAD (PanCancer),A,Prostate Adenocarcinoma
+PanCancer (TCGA),Survivial,PRAD (PanCancer),A,Prostate Adenocarcinoma
+PanCancer (TCGA),Sex,SKCM (PanCancer),A,Skin Cutaneous Melanoma
+PanCancer (TCGA),Met/Prim,SKCM (PanCancer),A,Skin Cutaneous Melanoma
+PanCancer (TCGA),Survival,STAD (PanCancer),A,Stomach Adenocarcinoma
+PanCancer (TCGA),Age,STAD (PanCancer),C,Stomach Adenocarcinoma
+PanCancer (TCGA),MSI Mantis Score,STAD (PanCancer),A,Stomach Adenocarcinoma
+PanCancer (TCGA),Stage,STAD (PanCancer),A,Stomach Adenocarcinoma
+PanCancer (TCGA),Subtype,UCEC (PanCancer),A,Uterine Corpus Endometrial Carcinoma
+PanCancer (TCGA),MSI Mantis Score,UCEC (PanCancer),A,Uterine Corpus Endometrial Carcinoma
+PanCancer (TCGA),Age,UCEC (PanCancer),C,Uterine Corpus Endometrial Carcinoma
+PanCancer (TCGA),Survival,UCEC (PanCancer),C,Uterine Corpus Endometrial Carcinoma
+PanCancer (TCGA),Race Category,UCEC (PanCancer),C,Uterine Corpus Endometrial Carcinoma
+"DFCI, Cell Reports 2016",Age,COAD (DFCI),A,COAD
+"DFCI, Cell Reports 2016",Tumor Site,COAD (DFCI),A,COAD
+"DFCI, Cell Reports 2016",Stage,COAD (DFCI),A,COAD
+"CPTAC, Cell 2021",Age,LSCC (CPTAC),B,LSCC
+"CPTAC, Cell 2021",Immunecluster,LSCC (CPTAC),A,LSCC
+"CPTAC, Cell 2021",Cibersort,LSCC (CPTAC),A,LSCC
+"CPTAC, Cell 2021",CpG Island Methylator Phenotype,LSCC (CPTAC),A,LSCC
+"SU2C/PCF Dream Team, PNAS 2019",Survival status,Met. PRAD (SU2C/PCF),A,Metastatic PRAD
+"SU2C/PCF Dream Team, PNAS 2019",Age,Met. PRAD (SU2C/PCF),C,Metastatic PRAD
+"SU2C/PCF Dream Team, PNAS 2019",Abiraterone (ABI) and Enzalutamide (ENZA) Exposure,Met. PRAD (SU2C/PCF),A,Metastatic PRAD
